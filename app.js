@@ -116,7 +116,7 @@ function hideCustomTheme() {
 }
 
 defaultElement.addEventListener('click', function() {
-    applyTheme('#ffb3ba', '#353535', '#f8f8f8', '#00AE94', 'default');
+    applyTheme('#D71313', '#353535', '#f8f8f8', '#00AE94', 'default');
     hideCustomTheme();
 });
 themeOneElement.addEventListener('click', function() {
