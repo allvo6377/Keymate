@@ -12,6 +12,7 @@ This project aims to create a virtual keyboard for Windows with additional cool 
 - Key functionalities
 - Custom themes
 - Dark mode
+- Function keys working
 
 ## Installation
 To install the virtual keyboard, follow these steps:
