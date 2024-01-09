@@ -2,7 +2,7 @@
 
 # My Project
 My project is about a virtual keyboard with additional cool effects and key functionalities.
-Developed with **HTML**, **CSS**, and **JS** without any dependencies. Without any framework
+Developed with **HTML**, **CSS**, and **JS** without any dependencies and without any framework
 
 ## Overview
 This project aims to create a virtual keyboard for Windows with additional cool effects and key functionalities.
