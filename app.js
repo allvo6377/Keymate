@@ -160,7 +160,7 @@ window.addEventListener('keydown', function(e) {
 // info button
 info.addEventListener('click', function() {
     notes.classList.toggle('show-notes');
-    trackEvent('Learn More', 'Information', 'button-click', 3);
+    trackEvent('Learn More', 'Information', 'button-click', 2);
 });
 
 // footer name link
