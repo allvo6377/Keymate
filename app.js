@@ -128,7 +128,7 @@ themeTwoElement.addEventListener('click', function() {
     hideCustomTheme();
 });
 themeThreeElement.addEventListener('click', function() {
-    applyTheme('#d896ff', '#353535', '#f5f5f5', '#A46F5E', 'gold');
+    applyTheme('#d896ff', '#353535', '#f5f5f5', '#A46F5E', 'purple');
     hideCustomTheme();
 });
 
