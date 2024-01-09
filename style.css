@@ -11,7 +11,7 @@
   }
   
   :root {
-    --keyboard-bg-color: #D71313;
+    --keyboard-bg-color: #19ade7d8;
     --key-bg-color: #353535;
     --key-color: #fdf6ff;
     --lock-on-color: #00ae94;
@@ -290,7 +290,7 @@
   
   .button:hover {
     cursor: pointer;
-    background-color: #5b5b5b;
+    background-color: #19ade7d8;
     color: #fff;
     transition: all 0.3s ease-in-out;
     -webkit-transition: all 0.3s ease-in-out;
